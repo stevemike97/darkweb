@@ -1,0 +1,33 @@
+.thecont{
+	margin-top: 70px;
+    margin-bottom: 0;
+}
+.therow {
+	margin: 0 -15px 0 -15px;
+}
+@media screen and (max-width: 1026px) {
+	.thecont{
+		margin-top: 85px;
+	}
+	.therow {
+		margin: 0 -20px 0 -20px;
+	}
+}
+
+.thecont2 {
+    margin-top: 0;
+}
+.bg-animate{
+    background-position:0 0;
+    background-repeat:repeat-x;
+    animation:animatedBackground 100s linear infinite
+}
+
+@keyframes animatedBackground{
+    from{
+        background-position:0 0
+    }
+    to{
+        background-position:100% 0
+    }
+}

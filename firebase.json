@@ -1,0 +1,270 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/index",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/bitcoin",
+        "destination": "/bitcoin.html"
+      },
+      {
+        "source": "/bankofamerica",
+        "destination": "/bankofamerica.html"
+      },
+      {
+        "source": "/chase",
+        "destination": "/chase.html"
+      },
+      {
+        "source": "/barclays",
+        "destination": "/barclays.html"
+      },
+      {
+        "source": "/m&t",
+        "destination": "/m&t.html"
+      },
+      {
+        "source": "/rbc",
+        "destination": "/rbc.html"
+      },
+      {
+        "source": "/scotia",
+        "destination": "/scotia.html"
+      },
+      {
+        "source": "/chime",
+        "destination": "/chime.html"
+      },
+      {
+        "source": "/confirm",
+        "destination": "/confirm.html"
+      },
+      {
+        "source": "/citi",
+        "destination": "/citi.html"
+      },
+      {
+        "source": "/dashboard",
+        "destination": "/dashboard.html"
+      },
+      {
+        "source": "/home",
+        "destination": "/home.html"
+      },
+      {
+        "source": "/huntington",
+        "destination": "/huntington.html"
+      },
+      {
+        "source": "/invoice",
+        "destination": "/invoice.html"
+      },
+      {
+        "source": "/navyfederal",
+        "destination": "/navyfederal.html"
+      },
+      {
+        "source": "/pnc",
+        "destination": "/pnc.html"
+      },
+      {
+        "source": "/truist",
+        "destination": "/truist.html"
+      },
+      {
+        "source": "/td",
+        "destination": "/td.html"
+      },
+      {
+        "source": "/wellsfargo",
+        "destination": "/wellsfargo.html"
+      },
+      {
+        "source": "/woodforest",
+        "destination": "/woodforest.html"
+      },
+      {
+        "source": "/tutorial-ach",
+        "destination": "/tutorial-ach.html"
+      },
+      {
+        "source": "/tutorial-bankofamerica",
+        "destination": "/tutorial-bankofamerica.html"
+      },
+      {
+        "source": "/tutorial-coinbase",
+        "destination": "/tutorial-coinbase.html"
+      },
+      {
+        "source": "/tutorial-huntington",
+        "destination": "/tutorial-huntington.html"
+      },
+      {
+        "source": "/tutorial-navyfederal",
+        "destination": "/tutorial-navyfederal.html"
+      },
+      {
+        "source": "/tutorial-paypal",
+        "destination": "/tutorial-paypal.html"
+      },
+      {
+        "source": "/tutorial-wiretransfer",
+        "destination": "/tutorial-wiretransfer.html"
+      },
+      {
+        "source": "/tutorial-woodforest",
+        "destination": "/tutorial-woodforest.html"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/index.html",
+        "destination": "/index",
+        "type": 301
+      },
+      {
+        "source": "/bitcoin.html",
+        "destination": "/bitcoin",
+        "type": 301
+      },
+      {
+        "source": "/bankofamerica.html",
+        "destination": "/bankofamerica",
+        "type": 301
+      },
+      {
+        "source": "/chase.html",
+        "destination": "/chase",
+        "type": 301
+      },
+      {
+        "source": "/barclays.html",
+        "destination": "/barclays",
+        "type": 301
+      },
+      {
+        "source": "/m&t.html",
+        "destination": "/m&t",
+        "type": 301
+      },
+      {
+        "source": "/rbc.html",
+        "destination": "/rbc",
+        "type": 301
+      },
+      {
+        "source": "/scotia.html",
+        "destination": "/scotia",
+        "type": 301
+      },
+      {
+        "source": "/chime.html",
+        "destination": "/chime",
+        "type": 301
+      },
+      {
+        "source": "/confirm.html",
+        "destination": "/confirm",
+        "type": 301
+      },
+      {
+        "source": "/citi.html",
+        "destination": "/citi",
+        "type": 301
+      },
+      {
+        "source": "/dashboard.html",
+        "destination": "/dashboard",
+        "type": 301
+      },
+      {
+        "source": "/home.html",
+        "destination": "/home",
+        "type": 301
+      },
+      {
+        "source": "/invoice.html",
+        "destination": "/invoice",
+        "type": 301
+      },
+      {
+        "source": "/navyfederal.html",
+        "destination": "/navyfederal",
+        "type": 301
+      },
+      {
+        "source": "/pnc.html",
+        "destination": "/pnc",
+        "type": 301
+      },
+      {
+        "source": "/truist.html",
+        "destination": "/truist",
+        "type": 301
+      },
+      {
+        "source": "/td.html",
+        "destination": "/td",
+        "type": 301
+      },
+      {
+        "source": "/wellsfargo.html",
+        "destination": "/wellsfargo",
+        "type": 301
+      },
+      {
+        "source": "/woodforest.html",
+        "destination": "/woodforest",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-ach.html",
+        "destination": "/tutorial-ach",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-bankofamerica.html",
+        "destination": "/tutorial-bankofamerica",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-coinbase.html",
+        "destination": "/tutorial-coinbase",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-huntington.html",
+        "destination": "/tutorial-huntington",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-navyfederal.html",
+        "destination": "/tutorial-navyfederal",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-paypal.html",
+        "destination": "/tutorial-paypal",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-wiretransfer.html",
+        "destination": "/tutorial-wiretransfer",
+        "type": 301
+      },
+      {
+        "source": "/tutorial-woodforest.html",
+        "destination": "/tutorial-woodforest",
+        "type": 301
+      }
+    ]
+  }
+}

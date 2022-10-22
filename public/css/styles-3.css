@@ -1,0 +1,484 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800&amp;display=swap);
+.navbar-nav > li {
+  background-color: rgba(0, 115, 173, 0.4);
+}
+#anon-invoice .modal-content {
+  background: rgb(191, 220, 235) !important;
+}
+#avatar {
+  border: 1.4px solid rgba(0, 115, 173, 0.7);
+  border-radius: 50%;
+}
+#inputEmail,
+#modal-pz,
+.email-h4 {
+  color: rgb(14, 49, 79) !important;
+}
+#inputEmail {
+  box-shadow: 0 0 0 2.1px rgb(85, 162, 200)
+}
+#copy-text,
+#showtoasts,
+.lesnar,
+.butn.white.in-cart,
+.butn.in-cart,
+#tele-link,
+#cartlength,
+#copy, 
+.custom-file-label::after,
+.home-btn {
+  background: rgb(191, 220, 43) !important;
+}
+#copy2 {
+  background: rgb(170, 208, 58) !important;
+}
+.home-btn:hover {
+  border: 1.4px solid rgb(210, 230, 31) !important;
+}
+.phone-btn {
+  background: rgb(105, 230, 136) !important;
+}
+.phone-btn:hover {
+  border: 1.4px solid rgb(105, 230, 136) !important;
+}
+
+.ver-btn {
+  background: rgb(0, 220, 235) !important;
+}
+.ver-btn:hover {
+  border: 1.4px solid rgb(0, 220, 235) !important;
+}
+#preloader:before {
+  border: 3px solid #0073ad;
+}
+#preloader:after {
+  border: 3px solid #0073ad;
+}
+a:hover,
+a:active {
+  color: #0073ad;
+  text-decoration: none;
+}
+#pay-invoice,
+#anon-invoice,
+.empty-cart, #email-invoice, 
+#phone-invoice {
+  border: 7px solid rgba(0, 115, 173, 0.7) !important;
+}
+.thegold {
+  background-color: rgba(0, 115, 173, 0.3);
+}
+.hermes.tparrows,
+.hermes .tp-arr-allwrapper {
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+.hermes.tparrows:before,
+.hermes .tp-arr-titleholder {
+	color:#0073ad;
+}
+@media screen and (max-width: 1092px) {
+  .navbar-nav{
+    border: 1.4px solid rgba(0, 115, 173, 0.7) !important;
+    box-shadow: 0px 5px 10px 0px rgba(0, 115, 173, 0.7);
+  }
+  .navbar-nav li {
+    border-bottom: 1.4px solid rgba(0, 115, 173, 0.3);
+  }
+  .navbar-toggler {
+    border: 1.1px solid #0073ad;
+    box-shadow: 0 0 0 1.1px rgb(85, 162, 200)
+  }
+  .navbar-toggler:after {
+    border-bottom: 2.5px solid #0073ad;
+  }
+  .navbar-toggler:before {
+    background: #0073ad;
+    border: 1.2px solid #0073ad;
+  }
+  .navbar-toggler.menu-opened:after {
+    background: #0073ad;
+  }
+  .navbar-toggler.menu-opened:after {
+    border: 1.4px solid #0073ad !important;
+  }
+  .navbar-toggler.menu-opened:before {
+    border: 1.4px solid #0073ad !important;
+  }
+  .navbar-toggler:after {
+    border-top: 2.5px solid #0073ad;
+  }
+}
+.attr-nav > ul > li.dropdown ul.dropdown-menu {
+  border: 1.4px solid rgba(0, 115, 173, 0.7) !important;
+  box-shadow: 0px 5px 10px 0px rgba(0, 115, 173, 0.7);
+}
+.attr-nav > ul > li.dropdown ul.dropdown-menu li {
+  border-bottom: 1.4px solid rgba(0, 115, 173, 0.3) !important;
+}
+.navbar-default {
+  border-bottom: 1.4px solid rgba(0, 115, 173, 0.49);
+}
+.text-theme-color {
+  color: #0073ad;
+}
+#todo-input {
+  box-shadow: 0 1px 3px 0 #0073ad !important;
+  border: 0.7px solid #0073ad !important;
+}
+blink {
+  background: #0073ad;
+}
+blink.high {
+  color: #0073ad;
+  border: 1.4px solid #0073ad;
+}
+.separator {
+	background: #0073ad;
+}
+.banner-words-wrapper b {
+  color: #0073ad;
+}
+.banner-headline .banner-words-wrapper:after {
+	background: #0073ad;
+}
+.scroll-to-top {
+  border: 2px solid #0073ad;
+}
+.scroll-to-top:hover {
+  color: #0073ad;
+}
+.scroll-to-top:hover i {
+  color: #0073ad;
+}
+.scroll-to-top:visited {
+  color: #0073ad;
+}
+.t-head{
+  text-shadow: 0 0 1.4px rgba(0, 115, 173, 0.92);
+}
+.butn {
+  border: 1.4px solid #0073ad;
+}
+.scroll-down{
+  border: 1.4px solid #0073ad;
+}
+.butn.white.scroll-down:after{
+  background: #0073ad;
+}
+.butn.white.scroll-down > .fa-angle-down{
+  color: #0073ad;
+}
+.butn:after {
+  background: #0073ad;
+}
+.butn.white:hover {
+  border: 1.4px solid #0073ad;
+}
+.butn.in-cart {
+  border: 1.4px solid #0073ad !important;
+}
+.butn.in-cart:hover {
+  border: 1.4px solid #0073ad !important;
+}
+.section-heading h4:after {
+  background: #0073ad;
+}
+.money,
+#thetot1,
+.lesnar {
+  border: 1.4px solid #0073ad;
+}
+.navbar-nav li.nav-small a,
+.butn.gold {
+  border: 1.4px solid rgba(0, 115, 173, 0.8);
+  background: rgb(204, 227, 239);
+}
+.navbar-nav li.nav-small.open a {
+  background: #0073ad;
+  border: 1.4px solid rgb(204, 227, 239);
+}
+.navbar-nav li.nav-small.open a::after {
+  background: rgb(204, 227, 239);
+}
+#jinaHolder4,
+#jinaHolder3 {
+  border: 1.4px solid rgb(14, 46, 75) !important;
+  color: rgb(64, 150, 194) !important;
+}
+.gta,
+.gta-boa {
+  border: 1.4px solid rgba(0, 115, 173, 0.7);
+}
+#the-pic2,
+#the-pic {
+  border: 1.4px solid rgba(0, 115, 173, 0.7);
+}
+#chart3, #chart4, #chart1, #chart2 {
+  border: 1.4px solid rgba(0, 115, 173, 0.49);
+  background: rgba(0, 115, 173, 0.14) !important;
+} 
+.modal-content {
+  border: 1.4px solid rgba(0, 115, 173, 0.49);
+}
+#nameBro1,
+#nameBro2,
+#nameBro3,
+#textBro,
+#photo,
+#photo2,
+#text {
+  background: rgba(0, 115, 173, 0.07) !important;
+  border: 0.7px solid rgba(0, 115, 173, 0.21);
+}
+#the-id,
+#the-ip,
+#the-date,
+#the-mail,
+#the-mail2,
+#the-id2,
+#the-date2 {
+  color: rgb(64, 150, 194) !important;
+  border: 1.4px solid rgb(13, 54, 86) !important;
+}
+.ticketz .modal-body label,
+#vpnModal .modal-body div label {
+  color: #0073ad !important;
+}
+.change {
+  border: 1.4px solid rgba(0, 115, 173, 0.03) !important;
+}
+
+.progress-bar-striped {
+	border: 0.7px solid rgba(0, 115, 173, 0.49) !important;
+  box-shadow: 0 0 0 0.7px rgba(0, 115, 173, 0.7) !important;
+}
+
+.custom-file-label {
+  background: rgba(0, 115, 173, 0.07) !important;
+  border: 0.7px solid rgba(0, 115, 173, 0.21);
+  box-shadow: 0 0 0 0.7px rgba(0, 115, 173, 0.28);
+}
+.custom-file-label::after {
+  border: 1.7px solid rgba(0, 115, 173, 0.92) !important;
+}
+
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #0073ad;
+}
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev {
+  border: 1.4px solid rgba(0, 115, 173, 1);
+}
+#loginModal .modal-content,
+#phoneModal .modal-content,
+#verifyModal .modal-content,
+#vpnModal .modal-content,
+#profileModal .modal-content,
+#exampleModal .modal-content {
+  background: rgba(12, 58, 92, 0.5) !important;
+  border: 1.4px solid rgba(0, 115, 173, 0.7) !important;
+  box-shadow: 0px 5px 10px 0px rgba(0, 115, 173, 0.3);
+}
+#modalsend {
+  background: rgba(0, 115, 173, 0.25) !important;
+}
+.bg-bro {
+  background-color: rgba(0, 115, 173, 1);
+}
+.scroll-down,
+#settings,
+#showtoasts,
+#thetot1, 
+.money {
+  background: rgb(192, 220, 235);
+  box-shadow: 0 0 0 1px rgb(128, 185, 214);
+  color: rgb(15, 43, 71) !important;
+}
+#vpn {
+  box-shadow: 0 0 0 1.4px rgb(128, 185, 214);
+}
+
+.modal-body div p,
+.account {
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+#profileModal .modal-content {
+  border: 1.4px solid rgba(0, 115, 173, 0.7) !important;
+  box-shadow: 0px 5px 10px 0px rgba(0, 115, 173, 0.3);
+}
+#loginModal .modal-header .close img,
+#phoneModal .modal-header .close img,
+#verifyModal .modal-header .close img,
+#vpnModal .modal-header .close img,
+#profileModal .modal-header .close img,
+#exampleModal .modal-header .close img,
+.btn-remove {
+  border: 1.4px solid rgba(0, 115, 173, 0.7);
+}
+.modal-body {
+  border: 1.4px solid rgba(0, 115, 173, 0.21);
+}
+.accordion-style .btn-link {
+  background: rgb(128, 185, 214) !important;
+  color: rgb(14, 49, 79) !important;
+}
+.accordion-style .btn-link:hover {
+  background: #0073ad !important;
+}
+#modal-flag,
+#the-flag,
+.thehr {
+  border: 0.7px solid rgba(0, 115, 173, 0.3);
+}
+#vpn-nav,
+#vpn {
+  border: 1.4px solid rgba(0, 115, 173, 0.92);
+  background: rgba(0, 115, 173, 0.92);
+}
+#canvas3,
+#canvas,
+#canvas2 {
+  border: 1.4px solid #0073ad;
+}
+#canvas:hover {
+  box-shadow: 0 25px 30px 0 #0073ad;
+}
+#showtoasts {
+  border: 1.4px solid rgba(0, 115, 173, 0.7);
+}
+#text-to-copy {
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+.progress{
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+
+.pricing-list {
+  border: 1.5px solid rgba(0, 115, 173, 0.49);
+  background: rgb(17, 33, 57);
+}
+.pricing-list:hover {
+  box-shadow: 0 5px 10px 0 #0073ad;
+}
+
+.pricing-list ul li:after {
+  background: rgba(0, 115, 173, 0.25);
+}
+
+
+
+
+
+
+.pricing-list.highlight {
+  background: rgb(106, 173, 207);
+  border: 1.4px solid #0073ad;
+}
+.pricing-list h2,
+.pricing-list ul li {
+  color: rgba(0, 115, 173, 0.92);
+}
+.pricing-list h2.text-white,
+.pricing-list ul li.text-white {
+  color: rgb(14, 49, 79) !important;
+}
+.pricing-list button {
+  color: rgb(14, 51, 82) !important;
+  border: 1.4px solid #0073ad !important;
+}
+.pricing-list.highlight button {
+  color: rgb(14, 49, 79) !important;
+  border: 1.4px solid rgb(14, 49, 79) !important;
+}
+.pricing-list.highlight button.white::after {
+  background: rgb(14, 49, 79) !important;
+}
+.pricing-list ul li.text-white:nth-child(1)::-webkit-scrollbar-thumb {
+  background: rgb(53, 59, 97)
+}
+.pricing-list.highlight ul li:after {
+  background: rgba(53, 59, 97, 0.3);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bro-text p:after{
+	background: rgba(0, 115, 173, 0.92);
+}
+
+
+.port a img{
+  border: 1.4px solid rgba(0, 115, 173, 0.49);
+  border-bottom: none;
+}
+.port h4{
+  border: 1.4px solid rgba(0, 115, 173, 0.49);
+}
+.port:hover {
+  box-shadow: 0 3px 7px 0 rgba(0, 115, 173, 0.7);
+}
+#invoice-table,
+#modalsend {
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 115, 173, 0.81);
+}
+.fa-toggle-on {
+  color: #0073ad;
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+.fa-toggle-off {
+  color: #0073ad;
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+#style-switcher {
+  box-shadow: 0px 7px 21px 0 rgba(0, 115, 173, 0.3);
+  border: 1.4px solid rgba(0, 115, 173, 0.3);
+}
+.filtering .butn {
+  border: 1.4px solid rgba(0, 115, 173, 0.81);
+  color: #0073ad;
+  background: rgb(17, 33, 57);
+}
+.filtering .butn.white:after{
+  background: rgb(17, 33, 57);
+}
+.filtering .butn.white {
+  background: rgb(106, 173, 207);
+  color: rgb(14, 49, 79);
+  border: 1.4px solid #0073ad;
+}
+.filtering .butn.white > i {
+  color: rgb(14, 49, 79);
+}
+.filtering .butn.white:hover{
+  box-shadow: 0 1px 2px 0 #0073ad;
+  border: 1.4px solid #0073ad;
+  transform: scale(1.07);
+  color: #0073ad;
+}
+.filtering .butn > i {
+  color: #0073ad;
+}
+.filtering .butn.white:hover i{
+  color: #0073ad;
+  transition: all 0.7s ease;
+}
+
+#invoice-table {
+  background: rgba(0, 115, 173, 0.31) !important;
+}

@@ -1,0 +1,93 @@
+.bg-animate{
+    background-position:0 0;
+    background-repeat:repeat-x;
+    animation:animatedBackground 70s linear infinite
+}
+
+@keyframes animatedBackground{
+    from{
+        background-position:0 0
+    }
+    to{
+        background-position:100% 0
+    }
+}
+#style-switcher{
+    top: 24%;
+}
+@media (max-width:592px){
+    #style-switcher{
+        top: 19%;
+    }
+}
+.therow{
+    margin-top: 55px;
+}
+@media screen and (max-width: 906px) {
+    .therow{
+        margin-top: 78px;
+    }
+}
+
+#paid{
+    padding: 10px;
+}
+
+#paid div{
+    overflow-y: hidden !important;
+}
+#paid .section-heading h4 {
+    color: #121d33;
+    font-size: 32px !important;
+}
+.butn.home-btn{
+    margin-top: 7vh;
+    color: #121d33 !important;
+    font-size: 24px;
+}
+
+#paid-text {
+    color: rgba(18, 29, 51, 0.92) !important;
+    font-size: 17px !important;
+    line-height: 30px !important;
+}
+#paid-text  span {
+    font-weight: 700 !important;
+    color: #121d33 !important;
+}
+.butn.home-btn img {
+    width: 27px;
+    border-radius: 0;
+}
+
+.paid-cart{
+    background: rgba(255, 255, 255, 0.81);
+    border: 7px solid rgba(135, 206, 235, 0.7) !important;
+    padding: 23px 10px;
+    margin-top: 10vh !important;
+}
+@media screen and (max-width: 906px) {
+    .paid-cart {
+        margin-top: 5vh !important;
+    }
+}
+#you-sent {
+    font-weight: 700;
+}
+
+#predat {
+    display: none;
+    padding: 3px;
+    height: 100vh;
+}
+#predat div {
+    overflow-y: hidden !important;
+}
+#predat .section-heading h4 {
+    color: #121d33;
+}
+.empty-cart{
+    background: rgba(255, 255, 255, 0.81);
+    padding: 43px;
+    margin-top: 35vh !important;
+}

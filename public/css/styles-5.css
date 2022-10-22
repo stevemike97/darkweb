@@ -1,0 +1,487 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800&amp;display=swap);
+.navbar-nav > li {
+  background-color: rgba(250, 183, 2, 0.4);
+}
+#avatar {
+  border: 1.4px solid rgba(250, 183, 2, 0.7);
+  border-radius: 50%;
+}
+#anon-invoice .modal-content {
+  background: rgb(254, 237, 192) !important;
+}
+#inputEmail,
+#modal-pz,
+.email-h4 {
+  color: rgb(72, 65, 40) !important;
+}
+#inputEmail {
+  box-shadow: 0 0 0 2.1px rgb(252, 207, 86)
+}
+#copy-text,
+#showtoasts,
+.lesnar,
+.butn.white.in-cart,
+.butn.in-cart,
+#tele-link,
+#cartlength,
+#copy, 
+.custom-file-label::after,
+.home-btn {
+  background: rgb(254, 237, 1) !important;
+}
+#copy2 {
+  background: rgb(253, 231, 1) !important;
+}
+.home-btn:hover {
+  border: 1.4px solid rgb(254, 242, 0) !important;
+}
+.phone-btn {
+  background: rgb(150, 242, 106) !important;
+}
+.phone-btn:hover {
+  border: 1.4px solid rgb(150, 242, 106) !important;
+}
+.ver-btn {
+  background: rgb(63, 237, 192) !important;
+}
+.ver-btn:hover {
+  border: 1.4px solid rgb(63, 237, 192) !important;
+}
+#preloader:before {
+  border: 3px solid #fab702;
+}
+#preloader:after {
+  border: 3px solid #fab702;
+}
+a:hover,
+a:active {
+  color: #fab702;
+  text-decoration: none;
+}
+#pay-invoice,
+#anon-invoice,
+.empty-cart, #email-invoice, 
+#phone-invoice {
+  border: 7px solid rgba(250, 183, 2, 0.7) !important;
+}
+.thegold {
+  background-color: rgba(250, 183, 2, 0.3);
+}
+.hermes.tparrows,
+.hermes .tp-arr-allwrapper {
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+.hermes.tparrows:before,
+.hermes .tp-arr-titleholder {
+	color:#fab702;
+}
+@media screen and (max-width: 1092px) {
+  .navbar-nav{
+    border: 1.4px solid rgba(250, 183, 2, 0.7) !important;
+    box-shadow: 0px 5px 10px 0px rgba(250,183, 2, 0.7);
+  }
+  .navbar-nav li {
+    border-bottom: 1.4px solid rgba(250, 183, 2, 0.3);
+  }
+  .navbar-toggler {
+    border: 1.1px solid #fab702;
+    box-shadow: 0 0 0 1.1px rgb(252, 207, 86)
+  }
+  .navbar-toggler:after {
+    border-bottom: 2.5px solid #fab702;
+  }
+  .navbar-toggler:before {
+    background: #fab702;
+    border: 1.2px solid #fab702;
+  }
+  .navbar-toggler.menu-opened:after {
+    background: #fab702;
+  }
+  .navbar-toggler.menu-opened:after {
+    border: 1.4px solid #fab702 !important;
+  }
+  .navbar-toggler.menu-opened:before {
+    border: 1.4px solid #fab702 !important;
+  }
+  .navbar-toggler:after {
+    border-top: 2.5px solid #fab702;
+  }
+}
+.attr-nav > ul > li.dropdown ul.dropdown-menu {
+  border: 1.4px solid rgba(250, 183, 2, 0.7) !important;
+  box-shadow: 0px 5px 10px 0px rgba(250,183, 2, 0.7);
+}
+.attr-nav > ul > li.dropdown ul.dropdown-menu li {
+  border-bottom: 1.4px solid rgba(250, 183, 2, 0.3) !important;
+}
+.navbar-default {
+  border-bottom: 1.4px solid rgba(250, 183, 2, 0.49);
+}
+
+.text-theme-color {
+  color: #fab702;
+}
+#todo-input {
+  box-shadow: 0 1px 3px 0 #fab702 !important;
+  border: 0.7px solid #fab702 !important;
+}
+blink {
+  background: #fab702;
+}
+blink.high {
+  color: #fab702;
+  border: 1.4px solid #fab702;
+}
+.separator {
+	background: #fab702;
+}
+.banner-words-wrapper b {
+  color: #fab702;
+}
+.banner-headline .banner-words-wrapper:after {
+	background: #fab702;
+}
+.scroll-to-top {
+  border: 2px solid #fab702;
+}
+.scroll-to-top:hover {
+  color: #fab702;
+}
+.scroll-to-top:hover i {
+  color: #fab702;
+}
+.scroll-to-top:visited {
+  color: #fab702;
+}
+.t-head{
+  text-shadow: 0 0 1.4px rgba(250, 183, 2, 0.92); 
+}
+.butn {
+  border: 1.4px solid #fab702;
+}
+.scroll-down{
+  border: 1.4px solid #fab702;
+}
+.butn.white.scroll-down:after{
+  background: #fab702;
+}
+.butn.white.scroll-down > .fa-angle-down{
+  color: #fab702;
+}
+.butn:after {
+  background: #fab702;
+}
+.butn.white:hover {
+  border: 1.4px solid #fab702;
+}
+.butn.in-cart {
+  border: 1.4px solid #fab702 !important;
+}
+.butn.in-cart:hover {
+  border: 1.4px solid #fab702 !important;
+}
+.section-heading h4:after {
+  background: #fab702;
+}
+
+.money,
+#thetot1,
+.lesnar {
+  border: 1.4px solid #fab702;
+}
+.navbar-nav li.nav-small a,
+.butn.gold {
+  border: 1.4px solid rgba(250, 183, 2, 0.8);
+  background: rgb(254, 241, 204);
+}
+.navbar-nav li.nav-small.open a {
+  background: #fab702;
+  border: 1.4px solid rgb(254, 241, 204);
+}
+.navbar-nav li.nav-small.open a::after {
+  background: rgb(254, 241, 204);
+}
+#jinaHolder4,
+#jinaHolder3 {
+  border: 1.4px solid rgb(64, 60, 41) !important;
+  color: rgb(251, 201, 65) !important;
+}
+.gta,
+.gta-boa {
+  border: 1.4px solid rgba(250, 183, 2, 0.7);
+}
+#the-pic2,
+#the-pic {
+  border: 1.4px solid rgba(250, 183, 2, 0.7);
+}
+#chart3, #chart4, #chart1, #chart2 {
+  border: 1.4px solid rgba(250, 183, 2, 0.49);
+  background: rgba(250, 183, 2, 0.14) !important;
+} 
+.modal-content {
+  border: 1.4px solid rgba(250, 183, 2, 0.49);
+}
+#nameBro1,
+#nameBro2,
+#nameBro3,
+#textBro,
+#photo,
+#photo2,
+#text {
+  background: rgba(250, 183, 2, 0.07) !important;
+  border: 0.7px solid rgba(250, 183, 2, 0.21);
+}
+#the-id,
+#the-ip,
+#the-date,
+#the-mail,
+#the-mail2,
+#the-id2,
+#the-date2 {
+  color: rgb(251, 201, 65) !important;
+  border: 1.4px solid rgb(84, 73, 37) !important;
+}
+.ticketz .modal-body label,
+#vpnModal .modal-body div label {
+  color: #fab702 !important;
+}
+.change {
+  border: 1.4px solid rgba(250, 183, 2, 0.03) !important;
+}
+.progress-bar-striped {
+	border: 0.7px solid rgba(250, 183, 2, 0.49) !important;
+  box-shadow: 0 0 0 0.7px rgba(250, 183, 2, 0.7) !important;
+}
+
+.custom-file-label {
+  background: rgba(250, 183, 2, 0.07) !important;
+  border: 0.7px solid rgba(250, 183, 2, 0.21);
+  box-shadow: 0 0 0 0.7px rgba(250, 183, 2, 0.28);
+}
+.custom-file-label::after {
+  border: 1.7px solid rgba(250, 183, 2, 0.92) !important;
+}
+
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #fab702;
+}
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev {
+  border: 1.4px solid rgba(250, 183, 2, 1);
+}
+#loginModal .modal-content,
+#phoneModal .modal-content,
+#verifyModal .modal-content,
+#vpnModal .modal-content,
+#profileModal .modal-content,
+#exampleModal .modal-content {
+  background: rgba(95, 80, 35, 0.5) !important;
+  border: 1.4px solid rgba(250, 183, 2, 0.7) !important;
+  box-shadow: 0px 5px 10px 0px rgba(250, 183, 2, 0.3);
+}
+#modalsend {
+  background: rgba(250, 183, 2, 0.25) !important;
+}
+.bg-bro {
+  background-color: rgba(250, 183, 2, 1);
+}
+.scroll-down,
+#settings,
+#showtoasts,
+#thetot1, 
+.money {
+  background: rgb(254, 237, 192);
+  box-shadow: 0 0 0 1px rgb(253, 219, 129);
+  color: rgb(57, 55, 43) !important;
+}
+#vpn {
+  box-shadow: 0 0 0 1.4px rgb(253, 219, 129);
+}
+
+
+.modal-body div p,
+.account {
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+#profileModal .modal-content {
+  border: 1.4px solid rgba(250, 183, 2, 0.7) !important;
+  box-shadow: 0px 5px 10px 0px rgba(250, 183, 2, 0.3);
+}
+#loginModal .modal-header .close img,
+#phoneModal .modal-header .close img,
+#verifyModal .modal-header .close img,
+#vpnModal .modal-header .close img,
+#profileModal .modal-header .close img,
+#exampleModal .modal-header .close img,
+.btn-remove {
+  border: 1.4px solid rgba(250, 183, 2, 0.7);
+}
+.modal-body {
+  border: 1.4px solid rgba(250, 183, 2, 0.21);
+}
+.accordion-style .btn-link {
+  background: rgb(253, 219, 129) !important;
+  color: rgb(72, 65, 40) !important;
+}
+.accordion-style .btn-link:hover {
+  background: #fab702 !important;
+}
+#modal-flag,
+#the-flag,
+.thehr {
+  border: 0.7px solid rgba(250, 183, 2, 0.3);
+}
+#vpn-nav,
+#vpn {
+  border: 1.4px solid rgba(250, 183, 2, 0.92);
+  background: rgba(250, 183, 2, 0.92);
+}
+#canvas3,
+#canvas,
+#canvas2 {
+  border: 1.4px solid #fab702;
+}
+#canvas:hover {
+  box-shadow: 0 25px 30px 0 #fab702;
+}
+#showtoasts {
+  border: 1.4px solid rgba(250, 183, 2, 0.7);
+}
+#text-to-copy {
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+.progress{
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+
+.pricing-list {
+  border: 1.5px solid rgba(250, 183, 2, 0.49);
+  background: rgb(29, 36, 49);
+}
+.pricing-list:hover {
+  box-shadow: 0 5px 10px 0 #fab702;
+}
+
+.pricing-list ul li:after {
+  background: rgba(250, 183, 2, 0.25);
+}
+
+
+
+
+
+
+
+
+.pricing-list.highlight {
+  background: rgb(252, 213, 107);
+  border: 1.4px solid #fab702;
+}
+.pricing-list h2,
+.pricing-list ul li {
+  color: rgba(250, 183, 2, 0.92);
+}
+.pricing-list h2.text-white,
+.pricing-list ul li.text-white {
+  color: rgb(72, 65, 40) !important;
+}
+.pricing-list button {
+  color: rgb(76, 68, 39) !important;
+  border: 1.4px solid #fab702 !important;
+}
+.pricing-list.highlight button {
+  color: rgb(72, 65, 40) !important;
+  border: 1.4px solid rgb(72, 65, 40) !important;
+}
+.pricing-list.highlight button.white::after {
+  background: rgb(72, 65, 40) !important;
+}
+.pricing-list ul li.text-white:nth-child(1)::-webkit-scrollbar-thumb {
+  background: rgb(134, 106, 27)
+}
+.pricing-list.highlight ul li:after {
+  background: rgba(134, 106, 27, 0.3);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.bro-text p:after{
+	background: rgba(250, 183, 2, 0.92);
+}
+
+
+.port a img{
+  border: 1.4px solid rgba(250, 183, 2, 0.49);
+  border-bottom: none;
+}
+.port h4{
+  border: 1.4px solid rgba(250, 183, 2, 0.49);
+}
+.port:hover {
+  box-shadow: 0 3px 7px 0 rgba(250, 183, 2, 0.7);
+}
+#invoice-table,
+#modalsend {
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(250, 183, 2, 0.81);
+}
+
+.fa-toggle-on {
+  color: #fab702;
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+.fa-toggle-off {
+  color: #fab702;
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+#style-switcher {
+  box-shadow: 0px 7px 21px 0 rgba(250, 183, 2, 0.3);
+  border: 1.4px solid rgba(250, 183, 2, 0.3);
+}
+.filtering .butn {
+  border: 1.4px solid rgba(250, 183, 2, 0.81);
+  color: #fab702;
+  background: rgb(29, 36, 49);
+}
+.filtering .butn.white:after{
+  background: rgb(29, 36, 49);
+}
+.filtering .butn.white {
+  background: rgb(252, 213, 107);
+  color: rgb(72, 65, 40);
+  border: 1.4px solid #fab702;
+}
+.filtering .butn.white > i {
+  color: rgb(72, 65, 40);
+}
+.filtering .butn.white:hover{
+  box-shadow: 0 1px 2px 0 #fab702;
+  border: 1.4px solid #fab702;
+  transform: scale(1.07);
+  color: #fab702;
+}
+.filtering .butn > i {
+  color: #fab702;
+}
+.filtering .butn.white:hover i{
+  color: #fab702;
+  transition: all 0.7s ease;
+}
+
+#invoice-table {
+  background: rgba(250, 183, 2, 0.31) !important;
+}
